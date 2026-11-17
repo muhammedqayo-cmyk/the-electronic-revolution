@@ -12,7 +12,7 @@ window.ELECTRIC_VEHICLES = [
       "Official configurations vary by market"
     ],
     "official": "https://www.tesla.com/model3",
-    "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=1400&q=85"
+    "image": "assets/tesla/model-3.webp"
   },
   {
     "id": "model-y",
@@ -27,7 +27,7 @@ window.ELECTRIC_VEHICLES = [
       "Updated Model Y family"
     ],
     "official": "https://www.tesla.com/modely",
-    "image": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a?w=1400&q=85"
+    "image": "assets/tesla/model-y.webp"
   },
   {
     "id": "model-s",
@@ -42,7 +42,7 @@ window.ELECTRIC_VEHICLES = [
       "Legacy / production ended"
     ],
     "official": "https://www.tesla.com/models",
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1400&q=85"
+    "image": "assets/tesla/model-s.webp"
   },
   {
     "id": "model-x",
@@ -57,7 +57,7 @@ window.ELECTRIC_VEHICLES = [
       "Legacy / production ended"
     ],
     "official": "https://www.tesla.com/modelx",
-    "image": "https://images.unsplash.com/photo-1592833159117-ac790d1db1a5?w=1400&q=85"
+    "image": "assets/tesla/model-x.webp"
   },
   {
     "id": "cybertruck",
@@ -72,7 +72,7 @@ window.ELECTRIC_VEHICLES = [
       "All-wheel-drive variants"
     ],
     "official": "https://www.tesla.com/cybertruck",
-    "image": "https://images.unsplash.com/photo-1611859266238-4b98091d9d9b?w=1400&q=85"
+    "image": "assets/tesla/cybertruck.webp"
   },
   {
     "id": "roadster-new",
@@ -87,7 +87,7 @@ window.ELECTRIC_VEHICLES = [
       "Development — not delivered"
     ],
     "official": "https://www.tesla.com/roadster",
-    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1400&q=85"
+    "image": "assets/tesla/roadster-new.webp"
   },
   {
     "id": "roadster-original",
@@ -102,7 +102,7 @@ window.ELECTRIC_VEHICLES = [
       "Historical model"
     ],
     "official": "https://www.tesla.com/roadster",
-    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1400&q=85"
+    "image": "assets/tesla/roadster-original.webp"
   },
   {
     "id": "cybercab",
@@ -117,7 +117,7 @@ window.ELECTRIC_VEHICLES = [
       "Rollout status varies"
     ],
     "official": "https://www.tesla.com/we-robot",
-    "image": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1400&q=85"
+    "image": "assets/tesla/cybercab.webp"
   },
   {
     "id": "semi",
@@ -132,7 +132,7 @@ window.ELECTRIC_VEHICLES = [
       "Production ramp / commissioning"
     ],
     "official": "https://www.tesla.com/semi",
-    "image": "https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=1400&q=85"
+    "image": "assets/tesla/semi.webp"
   },
   {
     "id": "robovan",
@@ -147,6 +147,6 @@ window.ELECTRIC_VEHICLES = [
       "No retail availability"
     ],
     "official": "https://www.tesla.com/we-robot",
-    "image": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=1400&q=85"
+    "image": "assets/tesla/robovan.webp"
   }
 ];
